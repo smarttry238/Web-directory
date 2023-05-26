@@ -12,3 +12,4 @@ We does not host any files on it's servers. All files or contents hosted on thir
 -   [`Looks That Kill`](https://katmoviehd.bio/movies/looks-that-kill)
 -   [`Inception (2010)`](https://katmoviehd.bio/movies/inception)
 -   [`Last Moment of Clarity`](https://katmoviehd.bio/movies/last-moment-of-clarity/)
+-   [`Mulan`](https://katmoviehd.bio/movies/mulan/)
